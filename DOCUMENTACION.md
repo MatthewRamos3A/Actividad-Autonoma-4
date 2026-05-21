@@ -15,7 +15,7 @@ Las mejoras aplicadas fueron:
 
 ## Resultados
 
-Código original: 37.18 segundos
+Código original: 37.44 segundos
 
 Código optimizado: 0.33 segundos
 

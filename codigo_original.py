@@ -4,10 +4,12 @@ inicio = time.time()
 
 primos = []
 
-for n in range(2, 10000):
+for n in range(2, 100000):
+
     es_primo = True
 
     for i in range(2, n):
+
         if n % i == 0:
             es_primo = False
             break

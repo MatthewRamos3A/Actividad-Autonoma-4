@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-original = 37.18
+original = 37.44
 optimizado = 0.33
 
 nombres = ["Original", "Optimizado"]
