@@ -15,11 +15,11 @@ Las mejoras aplicadas fueron:
 
 ## Resultados
 
-Tiempo código original: 5.82 segundos.
+Código original: 37.18 segundos
 
-Tiempo código optimizado: 1.47 segundos.
+Código optimizado: 0.33 segundos
 
-Se observó una mejora notable en el rendimiento del programa.
+Se observó una mejora importante en la velocidad del programa después de aplicar las optimizaciones.
 
 ## Conclusiones
 
